@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Bea.
-- 👀 I’m interested in coding, programming, and learning new things
-- 🌱 I’m currently learning Python and React
-- 💞️ I’m looking to collaborate on open-source projects and contribute to the community.
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+### 👋 Hi, I’m Bea.
 
-<!---
-beaandrea/beaandrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data Science Specialist | CS Student @ UST**
+
+- 👀 **Interests:** Natural Language Processing (NLP), Data Visualization, and Full Stack Development.
+- 🌱 **Currently Learning:** Building decoupled architectures with **FastAPI** and **React**.
+- 🚀 **Latest Project:** [The Literary Time Machine](https://github.com/beaandrea/literary-time-machine) — Quantifying the evolution of vocabulary over 200 years.
+- 💞️ **Collaboration:** Open to student hackathons and open-source data projects.
+- ⚡ **Fun fact:** I'm a huge history nerd and I'm currently trying to find the perfect disco-era outfit.
+
+**Connect with me:**
+[LinkedIn](https://www.linkedin.com/in/bea-andrea-gamilong) | [Email](mailto:beaandrea.gamilong@gmail.com)
