@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Bea.
 
-**Data Science Specialist | CS Student @ UST**
+**Aspiring Data Analyst | CS Student @ UST**
 
 - 👀 **Interests:** Natural Language Processing (NLP), Data Visualization, and Full Stack Development.
 - 🌱 **Currently Learning:** Building decoupled architectures with **FastAPI** and **React**.
