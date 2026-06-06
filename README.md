@@ -1,12 +1,13 @@
-### 👋 Hi, I’m Bea.
+👋 **Hi, I’m Bea.**
 
-**Aspiring Data Analyst | CS Student @ UST**
+**Data Analyst & Business Intelligence Specialist | CS Senior @ UST**
 
-- 👀 **Interests:** Natural Language Processing (NLP), Data Visualization, and Full Stack Development.
-- 🌱 **Currently Learning:** Building decoupled architectures with **FastAPI** and **React**.
-- 🚀 **Latest Project:** [The Literary Time Machine](https://github.com/beaandrea/literary-time-machine) — Quantifying the evolution of vocabulary over 200 years.
-- 💞️ **Collaboration:** Open to student hackathons and open-source data projects.
-- ⚡ **Fun fact:** I'm a huge history nerd and I'm currently trying to find the perfect disco-era outfit.
+I build end-to-end data pipelines and executive dashboards that turn fragmented legacy data into actionable business strategy.
+
+* 📊 **Focus Areas:** Enterprise Data Analytics, BI Dashboarding (Power BI/DAX), Python Automation, and SQL Data Warehousing.
+* 💼 **Experience:** Recently completed a Technology Consulting Internship in Digital Transformation at KPMG, focusing on process optimization and tech strategy.
+* 🚀 **Latest Project:** [Aegis GBS Workforce Optimizer](https://github.com/beaandrea/aegis_workforce_capacity) — Processed 550k+ HR records to identify $4.4M in structural overtime waste, delivering a cost-neutral hiring strategy.
+* ✨ **Fun fact:** When I'm not writing SQL queries, I'm probably outlining chapters for a contemporary fantasy mystery or hunting for the perfect dark academia/cottagecore structured fit.
 
 **Connect with me:**
 [LinkedIn](https://www.linkedin.com/in/bea-andrea-gamilong) | [Email](mailto:beaandrea.gamilong@gmail.com)
